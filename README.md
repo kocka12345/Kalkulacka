@@ -18,11 +18,3 @@ Opakované použití: Program se spouští v cyklu a po každé operaci se dotá
 
 Installed Python 3.x
 
-
-<h2>📖 Ukázka použití</h2>
-
-První číslo: 10
-Operace(+ , - , * , /): *
-Druhé číslo: 5
-50.0
-pokračovat? (n = konec): 

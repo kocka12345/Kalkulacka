@@ -1,8 +1,8 @@
-Jednoduchá konzolová kalkulačka v Pythonu
+<h1>Jednoduchá konzolová kalkulačka v Pythonu</h1>
 
 Tento projekt je jednoduchá kalkulačka spouštěná v příkazové řádce (CLI) napsaná v jazyce Python. Umožňuje uživateli provádět základní matematické operace v nekonečné smyčce, dokud se nerozhodne program ukončit.
 
-🚀 Funkce
+<h2>🚀 Funkce</h2>
 
 Základní operace: Sčítání (+), odčítání (-), násobení (*) a dělení (/).
 
@@ -14,12 +14,12 @@ Ochrana proti dělení nulou.
 
 Opakované použití: Program se spouští v cyklu a po každé operaci se dotáže, zda chcete pokračovat.
 
-🛠️ Požadavky
+<h2>🛠️ Požadavky</h2>
 
 Installed Python 3.x
 
 
-📖 Ukázka použití
+<h2>📖 Ukázka použití</h2>
 
 První číslo: 10
 Operace(+ , - , * , /): *
